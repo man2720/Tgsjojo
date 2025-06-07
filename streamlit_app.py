@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 st.title("--Haii--")
 st.write("Tugas Informatika Jonathan .")
 st.image("BMW-M2-F87-PNG-1024x683.webp",width=500)
